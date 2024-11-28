@@ -9,7 +9,7 @@ We use one shot approach (examples) to instruct LLM how to respond for function 
 
 1. Make a virtual environment.
 2. First run python3 simple_function_call_X.py in one terminal under the virtual envirnment.
-3. Run then curl_caller_configuration_X.py in other terminal (with / without virtual environment).
+3. Run then curl_caller_configuration_X.py in other terminal (with / without virtual environment). cURL should be used for such RESTful API call.
 
 Here, **X** denotes the configuration such as 2, 4, 6, 8 for repeatative study varying LLMs.   
 
@@ -19,6 +19,6 @@ We use few shot approach (examples) to instruct LLM how to respond for function 
 
 1. Make a virtual environment.
 2. First run python3 simple_function_call_X.py in one terminal under the virtual envirnment.
-3. Run then curl_caller_configuration_X.py in other terminal (with / without virtual environment).
+3. Run then curl_caller_configuration_X.py in other terminal (with / without virtual environment). cURL should be used for such RESTful API call.
 
 Here, **X** denotes the configuration such as 2, 4, 6, 8 for repeatative study varying LLMs.   
