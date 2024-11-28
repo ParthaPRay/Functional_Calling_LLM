@@ -1,4 +1,4 @@
-# functional_calling_LLM
+# Functional_Calling_LLM
 This repo shows the codes of function calling
 
 Two Approaches of function calling involvng localized quantized LLMs have been used in Raspberry PI 4B with FastAPI + Ollama frameworks:
